@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    <title>Amaltea</title>
+
+    <meta charset="UTF-8"/>
+
+    <style>
+        #gameScreen {
+            border: 1px solid white;
+            padding: 0;
+            margin: auto;
+            display: block;
+            width: 1200px;
+            height: 700px;
+        }
+
+        img {
+            display: none;
+        }
+        body {
+            background-color: rgb(0, 0, 0);
+        }
+
+    </style>
+
+</head>
+
+<body>
+
+    <canvas id="gameScreen" onmousemove="getRelativeMousePos(event)" onmousedown="getClick()" onmouseup="ungetClick()"  width="1200" height="700"></canvas>
+
+    <script src="src/index.js"></script>
+
+</body>
+
+</html>

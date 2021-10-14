@@ -1,0 +1,49 @@
+{
+    "cards": [
+    {
+        "cardID":   "0001",
+        "cardName": "Mercury",
+        "power":    "1"
+    },
+    {
+        "cardID":   "0002",
+        "cardName": "Venus",
+        "power":    "2"
+    },
+    {
+        "cardID":   "0003",
+        "cardName": "Earth",
+        "power":    "3"
+    },
+    {
+        "cardID":   "0004",
+        "cardName": "Mars",
+        "power":    "4"
+    },
+    {
+        "cardID":   "0005",
+        "cardName": "Jupiter",
+        "power":    "5"
+    },
+    {
+        "cardID":   "0006",
+        "cardName": "Saturn",
+        "power":    "6"
+    },
+    {
+        "cardID":   "0007",
+        "cardName": "Uran",
+        "power":    "7"
+    },
+    {
+        "cardID":   "0008",
+        "cardName": "Neptun",
+        "power":    "8"
+    },
+    {
+        "cardID":   "0009",
+        "cardName": "Pluton",
+        "power":    "0"
+    }
+    ]
+}
